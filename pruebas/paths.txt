@@ -1,0 +1,40 @@
+/data/master/finance/xfmd/data/t_xfmd_infoengloba
+/data/master/krdc/data/t_krdc_iss_fi_no_formal
+/data/master/cib/xmce/data/t_xmce_intraday
+/data/master/cib/xmce/data/t_xmce_eod_prices_fi
+/data/master/productsservices/xcif_claro/data/t_xcif_heffa_fix_income_l2
+/data/master/ppuc/data/t_ppuc_rfq_fi
+/data/master/ppuc_claro/data/t_ppuc_rfq_fx_l2
+/data/master/ppuc_claro/data/t_ppuc_rfq_equity_flows_l2
+/data/master/ppuc_claro/data/t_ppuc_rfq_eqd_l2
+
+
+
+
+De lo de infoengloba hoy no hay nada en:
+
+/data/master/finance/xfmd/data/t_xfmd_infoengloba
+/data/master/krdc/data/t_krdc_iss_fi_no_formal
+/data/master/cib/xmce/data/t_xmce_intraday
+/data/master/cib/xmce/data/t_xmce_eod_prices_fi
+/data/master/ppuc/data/t_ppuc_rfq_fi
+/data/master/ppuc_claro/data/t_ppuc_rfq_eqd_l2
+
+En /data/master/ppuc_claro/data/t_ppuc_rfq_eqd_l2 se cargaron ficheros con odates de 20240201 hasta 20240210
+
+En /data/master/ppuc_claro/data/t_ppuc_rfq_equity_flows_l2 se cargaron ficheros con odates de 20201207 hasta 20230825
+
+
+
+siempre es reclamar, aparte de eso, si no cargan estas tablas 
+   /data/master/finance/xfmd/data/t_xfmd_infoengloba-no
+    /data/master/krdc/data/t_krdc_iss_fi_no_formal
+    /data/master/cib/xmce/data/t_xmce_intraday
+    /data/master/cib/xmce/data/t_xmce_eod_prices_fi
+    /data/master/productsservices/xcif_claro/data/t_xcif_heffa_fix_income_l2
+
+hay que mandar un correo solo infromando que no llegaron, aparte del correo que se manda a origen reclamando
+
+
+
+
